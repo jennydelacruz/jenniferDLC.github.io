@@ -3,7 +3,7 @@
 
 Credits:
 
-	Webiste Template:
+	Website Template:
 		@ajlkn | html5up.net 
 
 	Demo Images:
